@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ようこそ on 株式会社○○○ホームページ</title>
+    <link>https://zoudazou.github.io/</link>
+    <description>Recent content in ようこそ on 株式会社○○○ホームページ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 15 Apr 2021 16:39:22 +0900</lastBuildDate><atom:link href="https://zoudazou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>https://zoudazou.github.io/privacy/</link>
+      <pubDate>Thu, 15 Apr 2021 16:47:12 +0900</pubDate>
+      
+      <guid>https://zoudazou.github.io/privacy/</guid>
+      <description>プライバシーポリシーの記述</description>
+    </item>
+    
+    <item>
+      <title>商品・サービス</title>
+      <link>https://zoudazou.github.io/products/</link>
+      <pubDate>Thu, 15 Apr 2021 16:46:57 +0900</pubDate>
+      
+      <guid>https://zoudazou.github.io/products/</guid>
+      <description>商品・サービスについての記述</description>
+    </item>
+    
+    <item>
+      <title>お問い合わせ</title>
+      <link>https://zoudazou.github.io/contact/</link>
+      <pubDate>Thu, 15 Apr 2021 16:46:34 +0900</pubDate>
+      
+      <guid>https://zoudazou.github.io/contact/</guid>
+      <description>電話番号： 0120-xxx-xxx
+FAX番号： 03-xxxx-xxxx
+Email： info@example.com
+ホームページ： https://example.com</description>
+    </item>
+    
+    <item>
+      <title>会社紹介</title>
+      <link>https://zoudazou.github.io/about/</link>
+      <pubDate>Thu, 15 Apr 2021 16:46:04 +0900</pubDate>
+      
+      <guid>https://zoudazou.github.io/about/</guid>
+      <description>【創業】 ・平成　年　月　日
+【拠点】 本社：東京都○○区○○○
+支社：埼玉県○○市○○○
+工場：神奈川県○○市○○○</description>
+    </item>
+    
+  </channel>
+</rss>
